@@ -6,8 +6,7 @@ established heart disease, and on FGF receptor expression in a public human
 heart single-nucleus atlas.
 
 The code produces every table and figure of the manuscript and the
-Supplementary Information from the study dataset, and checks each key result
-against the value reported in the manuscript.
+Supplementary Information from the study dataset. 
 
 ## What this repository contains
 
@@ -19,26 +18,6 @@ against the value reported in the manuscript.
 | `outputs/` | Summary results written by the analyses (estimates, confidence intervals, counts); `outputs/tables/` holds each table as printed |
 | `figure_source_data/` | Values plotted in Figures 1 to 4 and Supplementary Figures S1 and S2 |
 | `data/` | Data dictionary only (`data/README.md`) |
-
-**No participant data are included.** The pseudonymized study dataset is
-available from the corresponding author on reasonable request, subject to
-approval by the Institutional Review Board of Vinmec Times City International
-Hospital and a data use agreement (see the Data Sharing Statement). Its files
-are described in `data/README.md`; to run the analyses, place them in `data/`.
-Result files that list individual participants (Supplementary Table S1b) are
-written by the code but are not included here.
-
-**Data preparation is not included.** The code that built the study dataset
-from the clinical records (screening log, laboratory result forms,
-pseudonymization) works on identifiable records. It is available, with the
-dataset, to researchers who have a data use agreement. Two of its results are
-used here: the participant-flow counts in `outputs/02_participant_flow.csv`
-(Figure 1a) and Supplementary Table S1a (patients excluded at screening).
-
-**The single-nucleus atlas is public.** HeartMap (Datar et al.) is available
-from the Broad Institute Single Cell Portal, accession SCP3689. The code in
-`single_cell/` reproduces Table S5, Figure 5 and Supplementary Figure S3 from
-it; the values plotted can be obtained from the atlas directly.
 
 ## How to run
 
@@ -62,9 +41,7 @@ printed.
 
 Each analysis script stops with an error if a key result differs from the
 value reported in the manuscript or Supplementary Tables (the `REPORTED_`
-values at the top of each script). Script 01 also checks the analysis set:
-200 participants, 865 visits, 524 echocardiograms, 523 passing quality
-control. A successful run of `run_all.sh` therefore confirms the reported
+values at the top of each script). A successful run of `run_all.sh` therefore confirms the reported
 results.
 
 ## Where each result comes from
@@ -143,12 +120,8 @@ concentration unless given per standard deviation (SD).
 
 ## Software
 
-Package versions are fixed in `requirements.txt` (results were produced with
-Python 3.13). The bootstrap in `code/04_marker_comparison.py` uses a fixed
-random seed (20261021), so results are identical on every run. Figures are
-sized for Helvetica; where it is not installed, Arial or Liberation Sans is
-used and the figures differ slightly in appearance.
-
+Package versions are documented in `requirements.txt` (results were produced with
+Python 3.13). 
 ## License
 
 MIT (see `LICENSE`).
