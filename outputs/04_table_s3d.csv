@@ -1,0 +1,15 @@
+Outcome,Exposure,n,estimate,ci_low,ci_high,p
+"Septum, diastole",PTH,523,0.193,0.046,0.339,0.00985
+"Septum, diastole",Phosphate,523,0.094,-0.032,0.221,0.144
+"Septum, systole",PTH,523,0.302,0.117,0.487,0.0014
+"Septum, systole",Phosphate,523,-0.011,-0.163,0.141,0.888
+"Posterior wall, diastole",PTH,523,0.154,0.015,0.293,0.03
+"Posterior wall, diastole",Phosphate,523,0.088,-0.034,0.211,0.158
+"LV diameter, diastole",PTH,523,0.193,-0.229,0.615,0.37
+"LV diameter, diastole",Phosphate,523,0.297,-0.062,0.656,0.105
+"LV diameter, systole",PTH,523,0.012,-0.354,0.378,0.949
+"LV diameter, systole",Phosphate,523,0.338,0.057,0.619,0.0183
+Relative wall thickness,PTH,523,0.005,-0.002,0.012,0.126
+Relative wall thickness,Phosphate,523,0.001,-0.005,0.007,0.645
+LV mass index,PTH,523,3.205,1.204,5.206,0.00169
+LV mass index,Phosphate,523,2.149,0.37,3.928,0.0179

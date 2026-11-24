@@ -1,0 +1,6 @@
+Outcome,n (patients),"Estimate (95% CI), mm per 10-fold PTH",P
+"Septal thickness, diastole",523 (200),0.73 (0.19 to 1.28),0.009
+"Septal thickness, systole",523 (200),1.09 (0.42 to 1.76),0.001
+"Posterior wall, diastole",523 (200),0.59 (0.07 to 1.11),0.026
+"LV diameter, diastole",523 (200),0.82 (−0.69 to 2.32),0.288
+"LV diameter, systole",523 (200),0.18 (−1.14 to 1.49),0.794

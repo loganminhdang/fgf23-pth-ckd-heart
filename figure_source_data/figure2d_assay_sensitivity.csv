@@ -1,0 +1,5 @@
+Specification,n,patients,estimate,ci_low,ci_high,p
+Primary model,523,200,-0.12,-2.07,1.83,0.903
+Adjusted for assay batch,523,200,0.16,-1.87,2.19,0.881
+Within calibrated range,287,160,-0.08,-4.86,4.7,0.974
+Quantifiable values only,398,195,-1.11,-3.86,1.64,0.428

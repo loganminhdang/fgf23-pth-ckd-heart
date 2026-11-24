@@ -1,0 +1,15 @@
+Specification,n (patients),"Estimate (95% CI), g/m² per 10-fold PTH",P
+Primary model,523 (200),12.44 (4.81 to 20.07),0.001
+Prespecified covariates,523 (200),12.95 (5.51 to 20.40),<0.001
+Visit 1,199 (199),12.75 (2.56 to 22.94),0.014
+Visit 3,169 (169),16.00 (5.31 to 26.70),0.003
+Visit 5,155 (155),13.16 (−1.22 to 27.54),0.073
+Non-hypertrophic only,494 (195),9.73 (4.15 to 15.31),<0.001
+Normal LV geometry,450 (191),8.08 (2.17 to 13.99),0.007
+Volume proxies adjusted,523 (200),12.13 (4.02 to 20.25),0.003
+Patient means,200 (200),13.69 (4.79 to 22.58),0.003
+Between patients,523 (200),14.10 (4.79 to 23.41),0.003
+Within patients,523 (200),7.58 (0.50 to 14.67),0.036
+Visit-adjusted,523 (200),13.15 (5.05 to 21.24),0.001
+"FGF23, phosphate and calcium adjusted",523 (200),10.20 (2.11 to 18.29),0.013
+Indexed to height²·⁷ (g/m²·⁷),523 (200),5.96 (2.58 to 9.34),<0.001

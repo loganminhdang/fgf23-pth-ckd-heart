@@ -1,0 +1,4 @@
+Observations,n,patients,difference,ci_low,ci_high
+All observations,523,200,3.62,0.76,6.33
+Without LVH,494,195,3.15,1.02,5.26
+Normal LV geometry,450,191,2.41,0.23,4.65

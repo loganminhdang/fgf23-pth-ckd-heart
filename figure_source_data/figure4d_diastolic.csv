@@ -1,0 +1,26 @@
+Exposure,Outcome,Covariates,n,estimate,ci_low,ci_high,p
+PTH,E/e' (average),primary,172,-0.05,-0.66,0.57,0.882
+PTH,e' septal,primary,173,-0.23,-0.89,0.44,0.509
+PTH,e' lateral,primary,175,-0.12,-0.66,0.43,0.677
+PTH,LA volume index,primary,157,0.06,-0.66,0.77,0.877
+PTH,E/A (derived),primary,175,-0.66,-1.14,-0.19,0.00591
+PTH,E/e' (average),prespecified,172,0.03,-0.6,0.66,0.929
+PTH,e' septal,prespecified,173,-0.31,-0.99,0.37,0.375
+PTH,e' lateral,prespecified,175,-0.19,-0.73,0.35,0.492
+PTH,LA volume index,prespecified,157,0.21,-0.61,1.03,0.611
+PTH,E/A (derived),prespecified,175,-0.64,-1.15,-0.13,0.0139
+FGF23,E/e' (average),primary,172,-0.09,-0.28,0.11,0.377
+FGF23,e' septal,primary,173,0.06,-0.08,0.2,0.438
+FGF23,e' lateral,primary,175,0.23,0.07,0.39,0.0037
+FGF23,LA volume index,primary,157,-0.05,-0.22,0.13,0.619
+FGF23,E/A (derived),primary,175,-0.0,-0.15,0.15,0.982
+FGF23,E/e' (average),prespecified,172,-0.06,-0.25,0.13,0.514
+FGF23,e' septal,prespecified,173,0.04,-0.1,0.18,0.571
+FGF23,e' lateral,prespecified,175,0.22,0.06,0.38,0.00749
+FGF23,LA volume index,prespecified,157,0.0,-0.19,0.19,0.997
+FGF23,E/A (derived),prespecified,175,0.01,-0.15,0.17,0.92
+Age (positive control),E/e' (average),primary,172,0.042,0.023,0.062,2.32e-05
+Age (positive control),e' septal,primary,173,-0.109,-0.139,-0.08,5.87e-13
+Age (positive control),e' lateral,primary,175,-0.142,-0.172,-0.112,2.26e-20
+Age (positive control),LA volume index,primary,157,0.032,-0.023,0.086,0.253
+Age (positive control),E/A (derived),primary,175,-0.019,-0.024,-0.014,3.87e-13

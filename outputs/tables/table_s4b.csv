@@ -1,0 +1,6 @@
+Outcome,n (patients),"Estimate (95% CI), mm per 10-fold PTH",P
+"Septum, diastole",450 (191),0.40 (−0.03 to 0.82),0.070
+"Septum, systole",450 (191),0.78 (0.08 to 1.47),0.028
+"Posterior wall, diastole",450 (191),0.25 (−0.11 to 0.61),0.167
+"Diameter, diastole",450 (191),1.02 (−0.53 to 2.57),0.196
+"Diameter, systole",450 (191),0.40 (−0.96 to 1.76),0.563

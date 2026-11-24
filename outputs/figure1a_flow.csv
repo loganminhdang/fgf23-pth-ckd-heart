@@ -1,0 +1,15 @@
+stage,n
+screened,214
+excluded_at_screening,14
+enrolled,200
+analysed,200
+completed_all_visits,155
+partial_follow_up,45
+echocardiograms_obtained,524
+failed_dimension_qc,1
+echocardiograms_analysed,523
+patients_analysed,200
+patients_with_repeated_studies,169
+patients_contributing_3_studies,154
+patients_contributing_2_studies,15
+patients_contributing_1_studies,31

@@ -1,0 +1,15 @@
+Specification,n,patients,estimate,ci_low,ci_high,p
+Primary model,523,200,12.44,4.81,20.07,0.00139
+Prespecified covariates,523,200,12.95,5.51,20.4,0.00065
+Visit 1,199,199,12.75,2.56,22.94,0.0142
+Visit 3,169,169,16.0,5.31,26.7,0.00336
+Visit 5,155,155,13.16,-1.22,27.54,0.0729
+Non-hypertrophic only,494,195,9.73,4.15,15.31,0.000633
+Normal LV geometry,450,191,8.08,2.17,13.99,0.00734
+Volume proxies adjusted,523,200,12.13,4.02,20.25,0.00339
+Patient means,200,200,13.69,4.79,22.58,0.00258
+Between patients,523,200,14.1,4.79,23.41,0.00299
+Within patients,523,200,7.58,0.5,14.67,0.036
+Visit-adjusted,523,200,13.15,5.05,21.24,0.00146
+"Adjusted for FGF23, phosphate and calcium",523,200,10.2,2.11,18.29,0.0134
+LV mass indexed to height^2.7,523,200,5.96,2.58,9.34,0.000542

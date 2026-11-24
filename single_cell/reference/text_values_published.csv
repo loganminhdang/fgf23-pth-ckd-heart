@@ -1,0 +1,19 @@
+item,printed,format,where
+atlas_nuclei,2 479 674,grouped,"Methods (Human cardiac single-nucleus analysis); Results; Figure 5 legend"
+atlas_donors,209,decimals:0,"Abstract; Methods; Results; Figure 5 legend"
+atlas_studies,nine,word,"Methods; Results; Figure 5 legend; Supplementary Figure S3 legend"
+atlas_regions,eight,word,Methods
+atlas_disease_states,seven,word,Methods
+atlas_chemistries,four,word,Supplementary Figure S3 legend
+vcm_nuclei,724 971,grouped,Results
+vcm_detection_FGFR4,0.061,decimals:3,"Abstract; Results"
+vcm_detection_KL,0.148,decimals:3,Results
+vcm_detection_FGFR3,0.024,decimals:3,Results
+vcm_detection_FGFR2,0.47,decimals:2,Results
+vcm_detection_FGFR1,40.6,decimals:1,Results
+vcm_ratio_FGFR1_to_FGFR4,666,decimals:0,"Results (approximately 666-fold)"
+vcm_detection_FGF23,0.419,decimals:3,Results
+vcm_ratio_FGF23_to_FGFR4,seven,word,"Results (approximately seven times)"
+chaffin_vcm_detection_FGFR4_normal,0.042,decimals:3,Results
+chaffin_vcm_detection_FGFR4_hcm,0.094,decimals:3,Results
+chaffin_vcm_detection_FGFR4_dcm,0.094,decimals:3,Results

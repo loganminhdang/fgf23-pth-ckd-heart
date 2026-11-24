@@ -1,0 +1,6 @@
+Outcome,n,patients,estimate,ci_low,ci_high,p
+"Septum, diastole",450,191,0.4,-0.03,0.82,0.0695
+"Septum, systole",450,191,0.78,0.08,1.47,0.028
+"Posterior wall, diastole",450,191,0.25,-0.11,0.61,0.167
+"LV diameter, diastole",450,191,1.02,-0.53,2.57,0.196
+"LV diameter, systole",450,191,0.4,-0.96,1.76,0.563

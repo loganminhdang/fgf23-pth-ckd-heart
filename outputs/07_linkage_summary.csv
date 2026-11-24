@@ -1,0 +1,2 @@
+measurements,patients,batches,batches_spanning_visits,first_plate_year,last_plate_year,below_limit,below_limit_analysed,limits_applied_analysed
+865,200,15,9,2023,2026,237,125,20 pg/mL: 3; 39 pg/mL: 115; 78 pg/mL: 7

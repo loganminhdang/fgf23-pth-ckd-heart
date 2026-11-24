@@ -1,0 +1,46 @@
+Characteristic,Value,n
+Participants,200,
+Demographic and anthropometric,,
+"Age, years",44.265 ± 12.47650153096858,200
+"Male sex, n (%)",119 (59.5),200
+"Body-mass index, kg m⁻²",21.645500000000002 ± 2.3914398745038175,200
+"Body surface area, m²",1.575262580389044 ± 0.14220841660436817,200
+Haemodynamic,,
+"Systolic blood pressure, mm Hg",130.98 ± 14.158102249118079,200
+"Diastolic blood pressure, mm Hg",77.085 ± 10.766959276429976,200
+"Heart rate, beats min⁻¹",76.9 ± 12.825853287903072,200
+Kidney disease,,
+"eGFR, ml min⁻¹ 1.73 m⁻²",45.906000000000006 ± 18.41898910904165,200
+"Serum creatinine, µmol l⁻¹",168.09 ± 63.36202039187752,200
+"   G1 (≥90), n (%)",1 (0.5),200
+"   G2 (60–89), n (%)",50 (25.0),200
+"   G3a (45–59), n (%)",49 (24.5),200
+"   G3b (30–44), n (%)",49 (24.5),200
+"   G4 (15–29), n (%)",50 (25.0),200
+"   G5 (<15), n (%)",1 (0.5),200
+"   Chronic glomerulonephritis, n (%)",127 (63.5),200
+"   Interstitial kidney disease, n (%)",32 (16.0),200
+"   Pyelonephritis, n (%)",10 (5.0),200
+"   Diabetic nephropathy, n (%)",5 (2.5),200
+"   Other, n (%)",26 (13.0),200
+"Time since CKD diagnosis, years",3.0 (1.0–7.0),197
+Mineral metabolism,,
+"Parathyroid hormone, pg ml⁻¹",76.65 (55.075–116.25),200
+"FGF23, pg ml⁻¹",261.6 (100.375–579.125),200
+"Calcium, mmol l⁻¹",2.3167 ± 0.0969489841495938,200
+"Phosphate, mmol l⁻¹",1.075 ± 0.21017341487830485,200
+"Albumin, g l⁻¹",41.63099999999999 ± 3.1784511572138356,200
+Cardiac structure,,
+"LV mass index, g m⁻²",78.65577889447238 ± 16.24112047284582,199
+"LV mass index, g m⁻²˙⁷",34.58102288569328 ± 7.499559377820789,199
+Relative wall thickness,0.3545226130653267 ± 0.05138140450095676,199
+"Septal thickness in diastole, mm",8.723115577889448 ± 1.2759501675256089,199
+"Posterior wall thickness in diastole, mm",8.023517587939699 ± 1.112335194213085,199
+"LV internal dimension in diastole, mm",45.42462311557789 ± 3.541135858071751,199
+"Left ventricular hypertrophy, n (%)",11 (5.527638190954774),199
+"Increased relative wall thickness, n (%)",16 (8.040201005025125),199
+Diastolic function,,
+"E/e′, average",6.623333333333334 ± 1.6489789613940726,195
+"e′ septal, cm s⁻¹",10.28061224489796 ± 2.795203149839906,196
+"e′ lateral, cm s⁻¹",12.93939393939394 ± 3.2158180802468084,198
+"Left atrial volume index, ml m⁻²",20.758426966292134 ± 4.607113364872068,178

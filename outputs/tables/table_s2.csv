@@ -1,0 +1,9 @@
+Specification,n (patients),Estimate (95% CI),P
+Primary model,523 (200),−0.12 (−2.07 to 1.83),0.903
+Visit 1,199 (199),1.83 (−1.23 to 4.90),0.241
+Visit 3,169 (169),−1.61 (−3.63 to 0.41),0.119
+Visit 5,155 (155),−0.55 (−3.28 to 2.18),0.694
+Adjusted for assay batch,523 (200),0.16 (−1.87 to 2.19),0.881
+Quantifiable values only (excluding values reported below the limit of quantification),398 (195),−1.11 (−3.86 to 1.64),0.428
+Within calibrated range (78.1–5000 pg/ml),287 (160),−0.08 (−4.86 to 4.70),0.974
+Normal LV geometry,450 (191),−0.16 (−1.90 to 1.58),0.854

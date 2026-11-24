@@ -1,0 +1,2 @@
+# Additional dependency for the scripts in single_cell/.
+h5py==3.16.0

@@ -1,0 +1,6 @@
+specification,estimate,ci_low,ci_high,n
+Visit 1,1.8339,-1.2345,4.9022,199
+Visit 3,-1.6093,-3.6324,0.4138,169
+Visit 5,-0.5482,-3.2755,2.1791,155
+Between patients,-0.1,-2.3629,2.1629,523
+Within patients,-0.2392,-2.3966,1.9182,523

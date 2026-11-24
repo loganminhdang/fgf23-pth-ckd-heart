@@ -1,0 +1,25 @@
+Marker,Outcome,n (patients),"Estimate (95% CI), native units per SD",P
+PTH,"Septum, diastole",523 (200),0.203 (0.052 to 0.354),0.009
+PTH,"Septum, systole",523 (200),0.300 (0.115 to 0.485),0.001
+PTH,"Posterior wall, diastole",523 (200),0.163 (0.020 to 0.307),0.026
+PTH,"LV diameter, diastole",523 (200),0.225 (−0.191 to 0.641),0.288
+PTH,"LV diameter, systole",523 (200),0.049 (−0.315 to 0.412),0.794
+PTH,Relative wall thickness,523 (200),0.006 (−0.001 to 0.012),0.119
+Phosphate,"Septum, diastole",523 (200),0.112 (−0.025 to 0.248),0.108
+Phosphate,"Septum, systole",523 (200),0.016 (−0.143 to 0.175),0.841
+Phosphate,"Posterior wall, diastole",523 (200),0.102 (−0.029 to 0.233),0.126
+Phosphate,"LV diameter, diastole",523 (200),0.315 (−0.039 to 0.668),0.082
+Phosphate,"LV diameter, systole",523 (200),0.339 (0.063 to 0.616),0.016
+Phosphate,Relative wall thickness,523 (200),0.002 (−0.004 to 0.008),0.548
+Calcium,"Septum, diastole",523 (200),−0.025 (−0.140 to 0.091),0.673
+Calcium,"Septum, systole",523 (200),−0.007 (−0.164 to 0.150),0.935
+Calcium,"Posterior wall, diastole",523 (200),0.016 (−0.091 to 0.124),0.764
+Calcium,"LV diameter, diastole",523 (200),−0.359 (−0.701 to −0.017),0.040
+Calcium,"LV diameter, systole",523 (200),−0.251 (−0.536 to 0.034),0.084
+Calcium,Relative wall thickness,523 (200),0.004 (−0.001 to 0.008),0.131
+Albumin,"Septum, diastole",523 (200),−0.017 (−0.166 to 0.132),0.822
+Albumin,"Septum, systole",523 (200),−0.020 (−0.192 to 0.152),0.819
+Albumin,"Posterior wall, diastole",523 (200),−0.011 (−0.129 to 0.107),0.859
+Albumin,"LV diameter, diastole",523 (200),−0.513 (−0.931 to −0.096),0.016
+Albumin,"LV diameter, systole",523 (200),−0.400 (−0.712 to −0.087),0.012
+Albumin,Relative wall thickness,523 (200),0.003 (−0.002 to 0.008),0.202

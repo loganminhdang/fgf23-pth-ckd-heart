@@ -1,0 +1,9 @@
+phenotype,estimate,ci_low,ci_high,n,patients
+LV mass index,-0.0062,-0.1055,0.0931,523,200
+"Septum, diastole",-0.0485,-0.1435,0.0466,523,200
+"Septum, systole",-0.028,-0.1185,0.0625,523,200
+"Posterior wall, diastole",-0.0322,-0.1181,0.0537,523,200
+Relative wall thickness,-0.0525,-0.1484,0.0434,523,200
+"LV diameter, diastole",0.0512,-0.0655,0.1679,523,200
+"LV diameter, systole",0.0188,-0.0854,0.1231,523,200
+Fractional shortening,0.0401,-0.0599,0.1401,523,200
