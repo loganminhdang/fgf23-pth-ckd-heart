@@ -8,7 +8,7 @@ heart single-nucleus atlas.
 The code produces every table and figure of the manuscript and the
 Supplementary Information from the study dataset. 
 
-## What this repository contains
+## Repository content
 
 | Folder | Content |
 |---|---|
@@ -44,7 +44,7 @@ value reported in the manuscript or Supplementary Tables (the `REPORTED_`
 values at the top of each script). A successful run of `run_all.sh` therefore confirms the reported
 results.
 
-## Where each result comes from
+## Provenance of each result
 
 | Result | Script | Output |
 |---|---|---|
