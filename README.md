@@ -1,12 +1,10 @@
 # Mineral metabolism and myocardial structure in non-dialysis CKD
 
 Analysis code for the manuscript on PTH, FGF23 and left ventricular (LV)
-structure in 200 adults with non-dialysis chronic kidney disease (CKD) and no
-established heart disease, and on FGF receptor expression in a public human
-heart single-nucleus atlas.
+hypetrophy in 200 adults with non-dialysis chronic kidney disease (CKD). 
 
-The code produces every table and figure of the manuscript and the
-Supplementary Information from the study dataset. 
+The code produces all tables and figures of the manuscript and the
+Supplementary Information.  
 
 ## Repository content
 
@@ -41,7 +39,7 @@ printed.
 
 Each analysis script stops with an error if a key result differs from the
 value reported in the manuscript or Supplementary Tables (the `REPORTED_`
-values at the top of each script). A successful run of `run_all.sh` therefore confirms the reported
+values at the top of each script). A successful run of `run_all.sh` would confirms the reported
 results.
 
 ## Provenance of each result
@@ -76,7 +74,7 @@ Figures are also saved as PNG, PDF and SVG (editable text).
 
 | Script | What it does |
 |---|---|
-| `prep.py` | Shared steps: reads the dataset, applies echocardiographic quality control, derives LVH and LV geometry |
+| `prep.py` | Reads the dataset, applies echocardiographic quality control, derives LVH and LV geometry |
 | `01_primary_models.py` | Primary PTH and FGF23 models; PTH at each visit; within- and between-patient PTH associations |
 | `03_make_table_s1c.py` | Characteristics at each study visit (Table S1c) |
 | `04_marker_comparison.py` | Each mineral marker against LV mass and LV dimensions; PTH versus FGF23 (Table S3, Figure 3) |
@@ -88,7 +86,7 @@ Figures are also saved as PNG, PDF and SVG (editable text).
 | `10_lv_mass_decomposition.py` | Contributions of wall thickness and cavity size to the LV mass associations (Figure 3 legend) |
 | `11_publication_tables.py` | Every table as printed, rounded from the unrounded results in `outputs/unrounded/` |
 
-Methods in brief: each echocardiogram is one observation. LV measures are
+Method summary: We treat each echocardiogram is one observation. LV measures are
 related to each marker by linear regression adjusted for age, sex, BMI,
 systolic and diastolic blood pressure, heart rate and eGFR, with standard
 errors that allow for repeated echocardiograms of the same patient. PTH and
